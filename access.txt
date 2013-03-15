@@ -1,0 +1,10 @@
+DB
+--
+db: laroberie
+user: root
+password:
+
+Admin
+-----
+user: KhalDrogo
+pass: M00noFmyL1f3      
