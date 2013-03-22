@@ -1,10 +1,12 @@
 DB
 --
+server: db4free.net
 db: laroberie
-user: root
-password:
+user: khaleesi
+password:M00noFmyL1f3
 
 Admin
 -----
+url: http://laroberie.ch/oc-admin
 user: KhalDrogo
-pass: M00noFmyL1f3      
+pass: M00noFmyL1f3
