@@ -22,7 +22,7 @@
 <!-- container -->
 <div class="container">
 <!-- header -->
-<div id="header">
+<div id="header"><?php fbc_button(); ?>hello
     <a id="logo" href="<?php echo osc_base_url(); ?>"><?php echo logo_header(); ?></a>
     <div id="user_menu">
         <ul>
