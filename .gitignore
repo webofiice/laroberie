@@ -25,19 +25,19 @@ oc-content/plugins/lopd/ajax.php
 
 oc-inlcudes/simpletest/test/osclass/custom_config.php
 #themes
-oc-content/themes/*
-!oc-content/themes/modern/
+#oc-content/themes/*
+#!oc-content/themes/modern/
 
 #plugins
-oc-content/plugins/*
-!oc-content/plugins/index.php
-!oc-content/plugins/google_analytics/
-!oc-content/plugins/google_maps/
+#oc-content/plugins/*
+#!oc-content/plugins/index.php
+#!oc-content/plugins/google_analytics/
+#!oc-content/plugins/google_maps/
 
 # Intellij IDEA
-.idea/*
-*.iml
+#.idea/*
+#*.iml
 
 # Others
-.htaccess
+#.htaccess
 dist
